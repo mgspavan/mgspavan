@@ -4,7 +4,7 @@
 
 ### Lead Frontend Engineer · Vue 3 · TypeScript · AI-powered product UI
 
-I build large-scale B2B SaaS frontends: AI copilots with streaming generative UI, self-service analytics, and visual workflow builders.
+I build frontends for large-scale B2B SaaS and B2C e-commerce: AI copilots with streaming generative UI, self-service analytics, visual workflow builders, and high-traffic shopping experiences.
 
 <a href="https://www.linkedin.com/in/mgspavan/"><img src="https://img.shields.io/badge/LinkedIn-mgspavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mgspavan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mgspavan.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -20,7 +20,8 @@ I build large-scale B2B SaaS frontends: AI copilots with streaming generative UI
 - 🧠 Architected **Xio**, the platform's AI copilot: a typed SSE streaming protocol that renders LLM output as interactive UI
 - 📊 Leading **self-service BI** on a Cube semantic layer over ClickHouse, built to replace ~30 embedded Metabase dashboards
 - 🧩 Set the team's frontend standards: code review, shared components, performance, and localization into **6 languages incl. right-to-left Arabic**
-- ⏳ **5+ years** of frontend engineering, from e-commerce to enterprise SaaS
+- 🛍️ Before that, built **B2C e-commerce** at Wohlig Transformations: led feature delivery for a client shopping platform in Vue, working directly with client stakeholders
+- ⏳ **5+ years** of frontend engineering across **B2C e-commerce** and **B2B SaaS**
 
 ## 🛠️ Tech stack
 
@@ -68,12 +69,12 @@ I build large-scale B2B SaaS frontends: AI copilots with streaming generative UI
 | **Engagement engines** | Visual Automated Journeys builder (10+ triggers, multi-channel actions, test mode) and audience segmentation (nested AND/OR, 15+ rule types, live counts) |
 | **Performance** | Request deduplication, stale-response discarding and keyed caches; replaced 5-minute polling with Web Push; cut journey-load template requests from one per node to one per channel |
 | **Platform upgrades** | Leading the move to Vue 3.5, Vuetify 3.13, Vite 8, Node 22, TypeScript 5.9 and Pinia 3, including CI/CD and Docker |
-| **E-commerce** | Outfit customization module with 50+ options; Elasticsearch-backed search serving 2,000+ results per second |
+| **B2C e-commerce** | Led feature delivery for a client shopping platform in Vue; outfit customization module with 50+ options; Elasticsearch-backed product search serving 2,000+ results per second; modular, responsive templates built with designers |
 
 ## 💼 Experience
 
-**Lead Frontend Engineer** · OptCulture · *Jan 2024 – present* · Hyderabad  
-**Senior Frontend Developer** · Wohlig Transformations · *Aug 2021 – Dec 2023* · Mumbai (promoted within a year)
+**Lead Frontend Engineer** · OptCulture · *Jan 2024 – present* · Hyderabad · B2B SaaS  
+**Senior Frontend Developer** · Wohlig Transformations · *Aug 2021 – Dec 2023* · Mumbai · B2C e-commerce (promoted within a year)
 
 ## 🤝 How I work
 
